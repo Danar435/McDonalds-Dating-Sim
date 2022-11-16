@@ -1,0 +1,6 @@
+/.vscode
+/cache
+/saves
+*.rpyc
+*.bak
+*.clip
